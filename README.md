@@ -1,2 +1,2 @@
-# yuriyalekseevich.github.io
+# Yuriy Maliyov
 My first web
